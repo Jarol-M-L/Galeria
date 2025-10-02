@@ -1,0 +1,10 @@
+.contenedor-float {
+  width: 600px;
+  overflow: hidden; /* Para contener los floats */
+  border: 1px solid #ccc;
+}
+
+.contenedor-float img {
+  width: 33.33%;
+  float: left;
+}
